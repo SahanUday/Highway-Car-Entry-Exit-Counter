@@ -8,16 +8,6 @@ This project uses the YOLO (You Only Look Once) model to detect and track cars i
 - **Bounding Box Visualization:** Draws bounding boxes around detected cars.
 - **Entry/Exit Count Display:** Displays the number of cars that have entered and exited the region in real-time.
 
-## Requirements
-- Python 3.x
-- YOLO Model (`yolo11n.pt`) — a pre-trained YOLO model file.
-- `ultralytics` library for YOLO tracking.
-- `OpenCV` for video processing.
-
-You can install the necessary Python dependencies using pip:
-
-```bash
-pip install ultralytics opencv-python
 
 
 ### Example Output
