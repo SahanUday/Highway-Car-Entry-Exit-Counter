@@ -18,3 +18,11 @@ You can install the necessary Python dependencies using pip:
 
 ```bash
 pip install ultralytics opencv-python
+
+
+### Example Output
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="result/img1.jpg" alt="1.1" width="400"/>
+  <img src="result/img2.jpg" alt="2.1" width="400"/>
+</div>
